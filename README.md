@@ -2,8 +2,8 @@
 
 This Repository contains the relevant files of my newly released course on Python Programming For Beginners on Udemy.
 
-![img](http://i.imgur.com/dimaedunov/SmallLogoMakr-0xnb0o.png)
-![img](http://i.imgur.com/SmallLogoMakr-0xnb0o.png)
-![img](http://i.imgur.com/yourfilename.png)
+![img](http://i.imgur.com.png/dimaedunov/SmallLogoMakr-0xnb0o.png)
+![img](http://i.imgur.com.png/SmallLogoMakr-0xnb0o.png)
+![img](http://i.imgur.com.png/yourfilename.png)
 
 
